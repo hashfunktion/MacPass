@@ -55,8 +55,8 @@
 /* Class = "NSTextFieldCell"; title = "Lock while idle"; ObjectID = "806"; */
 "806.title" = "Sperren nach Inaktivität";
 
-/* Class = "NSTextFieldCell"; title = "Close and open all documents for changes to take effect"; ObjectID = "3Bo-Ml-1KB"; */
-"3Bo-Ml-1KB.title" = "Die Änderungen werden erst für Dokumente wirksam, welche geschlossen und erneut geöffnet werden.";
+/* Class = "NSTextFieldCell"; title = "Close and open all documents for changes to take effect"; ObjectID = "ya5-ps-c4W"; */
+"ya5-ps-c4W.title" = "Die Änderungen werden erst für Dokumente wirksam, welche geschlossen und erneut geöffnet werden.";
 
 /* Class = "NSBox"; title = "File Handling"; ObjectID = "888"; */
 "888.title" = "Dateibehandlung";
